@@ -1,0 +1,7 @@
+
+.bg-text {
+    background: red;
+    font-size: 36px;
+    transition: 2s;
+    border-radius: 20px;
+}
